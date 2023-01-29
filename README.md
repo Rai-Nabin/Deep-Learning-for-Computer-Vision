@@ -6,7 +6,7 @@ This course is a deep dive into the details of deep learning architectures with 
 [Course Link](http://cs231n.stanford.edu/)
 | S.N | Topics | Course Materials | Completion |
 |--|--|:--:|:--:|
-| 1 | Introduction to Convolutional Neural Networks for Visual Recognition | [Video](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | :white_check_mark: | 
+| 1 | [Introduction to Convolutional Neural Networks for Visual Recognition](https://github.com/Rai-Nabin/Deep-Learning-for-Computer-Vision/blob/main/01.md) | [Video](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) <br> [slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf)| :white_check_mark: | 
 | 2 | Image Classification |||
 | 3 | Loss Functions and Optimization |||
 | 4 | Introduction to Neural Networks |||
