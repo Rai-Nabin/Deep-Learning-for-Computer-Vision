@@ -16,8 +16,7 @@ Computer vision is an interdisciplinary field that relies on many different area
 
 
 
-![computervision](./images/CV.png)
-
+![computervision](./images/CV.png)<br\>
 $$ Interdiscinplinarism\ of\ Computer\ Vision$$
 
 # **History of Vision**
@@ -26,7 +25,7 @@ $$ Interdiscinplinarism\ of\ Computer\ Vision$$
 The evolution of vision can be traced back to 543 million years ago. During this time, life was mostly on the water, and animals didn't move around much. However, something remarkable happened around 540 million years ago when the number of animal species exploded from a few to hundreds of thousands. 
 The explosion in number of species happened in a short time-span of 10 million years.This was known as "Evolution's Big Bang" and was a mystery for many years. Andrew Parker proposed one of the most convincing theories from studying the fossils, the reason for explosion of the species was speciation(beginning of vision). The animals began to see and the dynamics of being a prey and predator triggered necessity of faster evolution. 
 
-![evolution](./images/Evolution.png)
+![evolution](./images/Evolution.png)<br\>
 $$Evolution's\  Big\ Bang$$
 
 Vision has become the biggest sensory system of almost all animals, with almost 50% of the neurons in our cortex involved in visual processing. Vision is extremely important for animals, especially intelligent animals, and enables them to survive, work, move around, manipulate things, communicate, entertain, and do a variety of other things.
@@ -34,7 +33,7 @@ Vision has become the biggest sensory system of almost all animals, with almost 
 ## Artificial Vision
 The first camera comes from the 1600s, the Renaissance period called Camera Obscura, This was a camera based on pin-hole camera theories. Similar to early eyes developed by animals.
 
-![obscura](./images/CameraObscura.png)
+![obscura](./images/CameraObscura.png)<br\>
 $$ Concept\ of\ Camera\ Obscura$$
 
 
@@ -44,7 +43,7 @@ Hubel and Wiesel in early 60s, discovered and discussed the processing of vision
 
 The history of  _Computer vision_ also starts in the 60s. _Block world_ by Larry Roberts 1963 was the first thesis of Computer vision, where the visual world was simplified into simple geometric shapes. The goal of this publication was to recognize and reconstruct these shapes. 
 
-![block](./images/block.png)
+![block](./images/block.png)<br\>
 $$Block \ World\ Representation$$
 
 #### _The Summer Vision Project_, MIT, 1966: 
@@ -62,7 +61,7 @@ The first process is called _primal sketches_ where mostly the edges, the bars, 
 After the _primal sketch_ comes the _$2 \frac{1}{2} D$ sketch_ . Here we start to piece together the surfaces, the depth information, the layers or the discontinuities of the visual scene. 
 Eventually the 3D model is obtained. 
 
-![davidmarrvision](./images/David_marr.png)
+![davidmarrvision](./images/David_marr.png)<br\>
 $$ Stages\ of \ representation$$
 
 ### 70s' Works
@@ -73,7 +72,7 @@ The basic idea behind these is that every object is composed of simple geometric
 
 | Generalized Cylinder | Pictorial Structure |
 | :--: | :--: |
-| ![](./images/generalized.png) | ![](./images/pictorial.png)<br> |
+| ![](./images/generalized.png) | ![](./images/pictorial.png)|
 
 ### 80's Works
 
@@ -89,13 +88,13 @@ Object segmentation is the task of taking an image and group the pixels into mea
 #### Normalized Cuts
 Image Segmentation using a graph theory algorithm. Proposed by Jitendra Malik and his student Jianbo Shi from Berkeley in 1997. 
 
-![normalizedcuts](./images/Normalized_cuts.png)
+![normalizedcuts](./images/Normalized_cuts.png)<br\>
 $$Normalized\ Cuts$$
 
 #### Face Detection, Viola & Jones
 From 1997 to 2000, traditional Machine Learning and statistical methods were in a boom. During that time an algorithm was proposed. Using Adaboost algorithm to do real-time face detection by Paul Viola and Michael Jones in 2001. 
 
-![viola](./images/violajones.png)
+![viola](./images/violajones.png)<br\>
 $$ Viola\ Jones\ Algorithm$$
 
 ### Problems till the 90s and 2000s
@@ -106,13 +105,13 @@ All these algorithms from the 90s till the 2000s were feature based. This has a 
 #### SIFT Feature
 Early solution to "Pattern Matching" was presented in the work by David Lowe, "SIFT" & Object Detection (1999), which says : _To match an entire object to the same object in another image is very difficult because changes will be there due to camera angle, occlusion (obscure or blocked due to another object) , viewpoint, lighting and the intrinsic variation of the object itself, but there are some features that remain diagnostic and invariant to changes. So the task of object recognition begins with identifying such non-changing features and matching those features to a similar object. Making it easier than Pattern matching._
 
-![sift](./images/SIFT.png)
+![sift](./images/SIFT.png)<br\>
 $$ Stop\ Sign\ SIFT\ feature \ mapping$$
 
 #### Spatial Pyramid Matching
 Using same idea: "Diagnostic features", another step was made to recognize scenes. The "Spatial Pyramid Matching (Lazebnik, Schmid & Ponce) 2006" says : _there are features in the images that gives us clue as to which type of scene it is, and we can take the features from different part of the image in different resolution and put it on a __feature descriptor__ and use SVM  algorithm.
 
-![spatial](./images/Spatial_pyramid.png)
+![spatial](./images/Spatial_pyramid.png)<br\>
 $$ Spatial\ pyramid\ matching$$
 
 #### Human recognition
@@ -130,7 +129,7 @@ As we move to the early 2000s, we can see a great shift in the quality and the q
 #### PASCAL Visual Object Challenge
 It is a dataset composed of 20 object classes like: Train, Airplane, Person, House bottle, Cat, etc. It had several to ten thousand images per class. It was used to evaluate the progress and performance detecting the objects in the dataset made by algorithms. We can see the steady progress being made over the years through this benchmarks.
 
-![](./images/PASCAL.png)
+![](./images/PASCAL.png)<br\>
 $$ PASCAL\ VOC\ Benchmark \ Scores\ over\ the\ years$$
 
 #### IMAGENET
@@ -138,10 +137,10 @@ $$ PASCAL\ VOC\ Benchmark \ Scores\ over\ the\ years$$
  
  To benchmark this dataset, _IMAGENET: Large Scale Visual Recognition Challenge_ was developed. For this a test set was derived from the complete dataset with 1.4 million objects with 1000 classes. 
 
-![classification](./images/IMAGENET-Objects.png)
+![classification](./images/IMAGENET-Objects.png)<br\>
 $$The\ IMAGENET\ Classification\ Classes$$
 
-![results](./images/IMAGENETcomparisionOfResults.png)
+![results](./images/IMAGENETcomparisionOfResults.png)<br\>
 $$ IMAGENET \ Result\ Comparision$$
 
 We can also see the progress here as the _Y-axis_ represents error rate. The _X-axis_ represents the year and the best performing model and we can see the error rate decreasing and becoming on-par and less than Human. 
@@ -155,7 +154,7 @@ In year 2012, AlexNet (aka Supervision) won the Imagenet classification competit
 ### History of CNN
 Although Alexnet won the Imagenet and popularized CNNs in 2012. The idea of CNNs from early on and existed in the 90s. Jan LeCun and et al. from Bell Labs in 1998 had written a CNN for recognizing hand written digits. 
 
-![janlecunn](./images/janLecunvsalexnet.png)
+![janlecunn](./images/janLecunvsalexnet.png)<br\>
 $$ Simlilarity\ between\ AlexNet\ and\ LeCun's\ CNN$$
 
 **Possible question**: _If CNNs existed in the 90s why are they popular now?_
