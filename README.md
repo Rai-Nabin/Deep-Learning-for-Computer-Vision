@@ -9,7 +9,7 @@ This course is a deep dive into the details of deep learning architectures with 
 ## Table of Contents
 | S.N | Topics | Course Materials | Note | Completion |
 | :--: | ---- | :--: | :--: | :--: |
-| 1 | Introduction to Convolutional Neural Networks for Visual Recognition | [Video](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf) | [link](./01-Introduction/Introduction.md) | &#x2611; |
+| 1 | Introduction to Convolutional Neural Networks for Visual Recognition | [Video](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf) | [link](./01-Introduction/README.md) | &#x2611; |
 | 2 | Image Classification | [Video](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture2.pdf) | link | &#x2611; |
 | 3 | Loss Functions and Optimization |  |  | &#x2610;<br> |
 | 4 | Introduction to Neural Networks |  |  | &#x2610; |
