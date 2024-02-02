@@ -170,7 +170,9 @@ Although Alexnet won the Imagenet and popularized CNNs in 2012. The idea of CNNs
 
 $$ Simlilarity\ between\ AlexNet\ and\ LeCun's\ CNN$$
 
-**Possible question**: _If CNNs existed in the 90s why are they popular now?_
+**Possible question**: 
+
+_If CNNs existed in the 90s why are they popular now?_
 
 **Answer**: 
 
