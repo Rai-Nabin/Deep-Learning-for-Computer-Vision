@@ -17,6 +17,7 @@ Computer vision is an interdisciplinary field that relies on many different area
 
 
 ![computervision](./images/CV.png)
+
 $$ Interdiscinplinarism\ of\ Computer\ Vision$$
 
 # **History of Vision**
