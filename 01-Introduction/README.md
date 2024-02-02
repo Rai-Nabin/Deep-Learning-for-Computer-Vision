@@ -171,7 +171,10 @@ Although Alexnet won the Imagenet and popularized CNNs in 2012. The idea of CNNs
 $$ Simlilarity\ between\ AlexNet\ and\ LeCun's\ CNN$$
 
 **Possible question**: _If CNNs existed in the 90s why are they popular now?_
-**Answer**: _The answer can be presented in the following points:
+
+**Answer**: 
+
+_The answer can be presented in the following points:_
 - _Thanks to Moore's Law (transistors in an IC doubles every two years), computation has got a lot faster and better._
 - _Advent of GPUs, that is able to perform parallelized computation_
 - _Data available: In the 90s labelled data was not available as it is now._
