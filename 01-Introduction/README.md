@@ -1,4 +1,6 @@
-**Computer Vision**
+# Introduction to Convolutional Neural Networks for Visual Recognition
+This lecture gives an introduction to the field of computer vision, discussing its history and key challenges. We emphasize that computer vision encompasses a wide variety of different tasks, and that despite the recent successes of deep learning we are still a long way from realizing the goal of human-level visual intelligence.
+## Computer Vision
 
 Computer vision is the study of visual data, which has exploded in the last couple of years due to the large number of sensors in the world. 
 A 2015 study from Cisco estimated that by 2017, 80% of all traffic on the internet would be video, and it is critical to develop algorithms that can 
@@ -9,7 +11,8 @@ Google has a lot of employees, but they cannot sit down and watch, understand, a
 that can dive in and automatically understand the content of visual data. Computer vision is an interdisciplinary field that touches on many different 
 areas of science, engineering, and technology.
 
-**History of Vision**
+![Computer Vision](./images/computer-vision.png)
+## History of Vision
 
 The evolution of vision can be traced back many millions of years, or approximately 543 million years. During this time, life was mostly 
 on the water, and animals didn't move around much. However, something remarkable happened around 540 million years ago when the number of animal 
