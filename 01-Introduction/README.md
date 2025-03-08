@@ -1,23 +1,50 @@
 # Introduction to Convolutional Neural Networks for Visual Recognition
-This lecture gives an introduction to the field of computer vision, discussing its history and key challenges. We emphasize that computer vision encompasses a wide variety of different tasks, and that despite the recent successes of deep learning we are still a long way from realizing the goal of human-level visual intelligence.
-## Computer Vision
+![About Course](./images/01-cs231n.png)
 
-Computer vision is the study of visual data, which has exploded in the last couple of years due to the large number of sensors in the world. 
-A 2015 study from Cisco estimated that by 2017, 80% of all traffic on the internet would be video, and it is critical to develop algorithms that can 
-utilize and understand this data. However, there is a problem with visual data: it is hard to understand. Visual data is often referred to as the 
-"dark matter" of the internet, as it is difficult for algorithms to understand and see all of the visual data on the web. This is exemplified by the 
-fact that for every second of clock time that occurs in the world, approximately five hours of video are uploaded to YouTube.
-Google has a lot of employees, but they cannot sit down and watch, understand, and annotate every video, so it is important to develop technologies 
-that can dive in and automatically understand the content of visual data. Computer vision is an interdisciplinary field that touches on many different 
-areas of science, engineering, and technology.
+### Computer Vision
+-  Computer vision is the study of visual data.
+- **Importance of Visual Data:**
+    - The amount of visual data in the world has significantly increased due to the proliferation of sensors.
+    - Smartphones, with their multiple cameras, contribute greatly to this increase.
+    - There are likely more cameras in the world than people.
+- **Internet Traffic:**
+    - A 2015 Cisco study estimated that by 2017, approximately 80% of internet traffic would be video.
+    - This statistic highlights the dominance of visual data on the internet.
+- **Challenges of Visual Data:**
+    - Visual data is often difficult to understand, likened to "dark matter" in physics.
+    - Similar to dark matter, visual data comprises a large portion of the internet but is difficult to observe and interpret.
+- **YouTube Example:**
+    - Approximately 5 hours of video are uploaded to YouTube every second.
+    - The sheer volume of video content makes manual analysis and annotation impossible.
+    - Automated technologies are necessary to understand and catalog visual data for purposes like serving relevant content and monetization.
 
-![Computer Vision](./images/computer-vision.png)
-## History of Vision
+---
+### Interdisciplinary Fields
 
-The evolution of vision can be traced back many millions of years, or approximately 543 million years. During this time, life was mostly 
-on the water, and animals didn't move around much. However, something remarkable happened around 540 million years ago when the number of animal 
-species exploded from a few to hundreds of thousands. This was known as "Evolution's Big Bang" and was a mystery for many years. Andrew Parker proposed 
-one of the most convincing theories from fossils, which states that the first animals developed eyes and began to see, triggering an explosion of speciation. 
-Vision has become the biggest sensory system of almost all animals, with almost 50% of the neurons in our cortex involved in visual processing. Vision is 
-extremely important for animals, especially intelligent animals, and enables them to survive, work, move around, manipulate things, communicate, entertain, 
-and do a variety of other things.
+
+![Computer Vision](02-interdisciplinary-fields.png)
+
+- Computer vision is an interdisciplinary field, drawing from various areas of science, engineering, and technology.
+- It intersects with:
+    - Physics (optics and image formation)
+    - Biology and psychology (animal vision and processing)
+    - Computer science, mathematics, and engineering (algorithm development and system building)
+---
+### History of Vision
+![Evolution-BigBang](./images/03-evolution.png)
+
+- **Biological Vision's Origins:**
+    - The history of vision traces back approximately 540 million years.
+    - At that time, Earth was primarily aquatic, with limited animal species.
+    - Early life was passive, with organisms relying on chance encounters with food.
+- **The Cambrian Explosion:**
+    - Around 540 million years ago, a significant increase in animal species occurred within a relatively short period (10 million years).
+    - This phenomenon, known as the Cambrian Explosion, puzzled evolutionary biologists.
+    - Andrew Parker, a zoologist, proposed that the development of eyes and the onset of vision triggered this explosion.
+- **The Impact of Vision:**
+    - Vision enabled animals to become more proactive, with predators hunting prey and prey needing to evade predators.
+    - This led to an "evolutionary arms race," driving rapid evolution for survival.
+- **Vision's Significance:**
+    - Over 540 million years, vision has become the dominant sensory system in most animals, especially intelligent ones.
+    - In humans, approximately 50% of cortical neurons are involved in visual processing.
+    - Vision plays a crucial role in survival, movement, manipulation, communication, and various other functions.4
