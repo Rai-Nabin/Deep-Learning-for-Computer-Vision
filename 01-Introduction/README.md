@@ -22,7 +22,7 @@
 ### Interdisciplinary Fields
 
 
-![Computer Vision](02-interdisciplinary-fields.png)
+![Computer Vision](./images/02-interdisciplinary-fields.png)
 
 - Computer vision is an interdisciplinary field, drawing from various areas of science, engineering, and technology.
 - It intersects with:
