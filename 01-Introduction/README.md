@@ -290,9 +290,6 @@
     - The 2012 ImageNet challenge demonstrated the power of CNNs in computer vision.
     - This lead to the rise of deep learning.
 
-
----
-
 # Test your Knowledge
 
 **Multiple Choice Questions (MCQs):**
